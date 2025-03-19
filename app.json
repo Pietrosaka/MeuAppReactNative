@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MeuPrimeiroApp",
-    "slug": "MeuPrimeiroApp",
+    "name": "MeuAppReactNative",
+    "slug": "MeuAppReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
